@@ -7,4 +7,4 @@ This is a repository containing my submissions for the Codechef VIT club recruit
 
 Screenshots, testcases and logic can be found at [this google doc](https://docs.google.com/document/d/1QwUpbbJEf6-S1HeBoy13-NdjdIVIUW_54oP1XxPMZWU/edit?tab=t.0) which is also present in this repository [here](Codechef-VIT_Competitive_Coding_Answers.docx).
 
-Thank you and all the best to other candidates!
+Thank you and all the best to the other candidates!
